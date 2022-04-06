@@ -1,8 +1,9 @@
 --- 
 layout: post
-title:SERVICIOS
-author: Dave Mc Dave
+title: SERVICIOS
+author:
 intro:
+--- 
 
 _Nos encargamos de darte los mejores servicios con equipos de primera mano y herramientas de última técnología lo que te hara que confien en nosotros y en nustros tecnicos tenemos diferentes servicios a parte de dar servicios corectivos y preventivos_
 
