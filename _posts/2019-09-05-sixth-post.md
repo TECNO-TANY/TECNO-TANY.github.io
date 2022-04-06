@@ -13,7 +13,7 @@ intro_image_ratio: is-16by9
 **_Nosotros llevamos 5 años ayudando a la gente y haciéndola creer en nosotros con técnicos de calidad para el bien de sus computadoras a qui te trataremos como ce merece un cliente distinguido te ayudaremos a que tu equipo de cómputo este en buenas condiciones de vida para su duración_**
 
 
-**_¿Que metas queremos cumplir en nuestra empresa?_**
+> **_¿Que metas queremos cumplir en nuestra empresa?_**
 
 **queremos lograra  que nuesros clientes queden satisfechos con nuestros servicios sean mejores y que las personas nos concideren antes que a otras empesas**
 
