@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Post with Intro
+title: Nosotros
 author: Guest Author
 description: This is a post with an introduction image and text
 intro: This is the introduction text for this post. It appears large and bold at the top of the post!
@@ -8,7 +8,22 @@ intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
 ---
 
-Version 0.3 allows you to provide a intro and an intro image. When creating your post add a short `intro` text an `intro_image` as a path to an image and then specify the `intro_image_ratio` which should be a [Bulma image](https://bulma.io/documentation/elements/image/) class. 
+## BIENVENIDOS A TECNO-TANY <3
+
+**_Nosotros llevamos 5 años ayudando a la gente y haciéndola creer en nosotros con técnicos de calidad para el bien de sus computadoras a qui te trataremos como ce merece un cliente distinguido te ayudaremos a que tu equipo de cómputo este en buenas condiciones de vida para su duración_**
+
+
+**_¿Que metas queremos cumplir en nuestra empresa?_**
+
+**queremos lograra  que nuesros clientes queden satisfechos con nuestros servicios sean mejores y que las personas nos concideren antes que a otras empesas**
+
+
++ > **_Nuestra Visión:  como empresa es tener las mejores aportaciones quedar bien e nuestros trabajos como buenos técnicos y servir a nuestros clientes_**
+
++ >**_Nuetra Misión: es ayudará todos  nuestros clientes  con el apoyo de nuestros técnicos para facilitar y satisfacer al cliente con nuestro desempeño  como empresa con los mejores equipos_**
+
++ >**_Nuestos Valores: es tener en cuenta  los requisitos y medidas que pida el cliente para  que nosotros seamos parte de sus prioridades reconocer y ayudar cundo más lo necesiten_**
+
 
 ```yaml
 layout: post
