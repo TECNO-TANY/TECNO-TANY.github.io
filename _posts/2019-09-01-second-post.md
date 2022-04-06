@@ -1,6 +1,6 @@
 --- 
-layout: post
-title: Second Post
+layout: CONTACTO
+title: CONTACTON 
 ---
 
 > ### _Nos puede contactar en los siguentes  sitios_:
