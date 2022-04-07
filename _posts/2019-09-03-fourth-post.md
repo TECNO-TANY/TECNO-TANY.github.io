@@ -6,6 +6,7 @@ image: https://img.freepik.com/vector-gratis/ilustracion-soporte-al-cliente_23-2
 
 
 
+
  +   **_1¿Cada cuando se recomienda darle mantenimiento a una computadora?_**
 >_Bueno fisicamente cada 2 a 3 meses debes sopletearla para que no acumule polvo y pelusa en su interior, y en cuanto al software hay utilidades como CCleaner o Tuneup utilities para que le des un mantenimiento a tu pc, entre los que estan eliminar los archivos innecesarios, desfragmentar en disco y el registro de windows, en fin y esto se hace de acuerdo al uso que le des a tu pc pero una ves por semana o cada 15 dias es lo ideal para que mantengas a punto tu equipo._
 
@@ -271,4 +272,6 @@ Primero consulta el manual para verificar que el dispositivo esté correctamente
 + **_42¿La temida pantalla azul?_**
 
 > Generalmente viene acompañado de un texto que indica el código de error al que corresponde y sirve como referencia para saber qué pasó. Usualmente indica un problema serio, que puede estar relacionado con el hardware o el driver.
+
+
 
