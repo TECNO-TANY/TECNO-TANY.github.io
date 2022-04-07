@@ -3,7 +3,7 @@ layout: post
 title: Nosotros
 author: Guest Author
 description:
-intro_image: https://cdn.careeronestop.org/OccVids/OccupationVideos/15-1199.04.jpg
+intro_image: https://img.freepik.com/foto-gratis/operador-call-center-seguro-hablando-cliente_74855-4059.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
 ---
 
 ## BIENVENIDOS A TECNO-TANY <3
