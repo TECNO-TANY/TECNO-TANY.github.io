@@ -3,7 +3,7 @@ layout: post
 title: Nosotros
 author: Guest Author
 description:
-image: https://www.freepik.es/vector-gratis/alojamiento-web-isometrico-composicion-soporte-soporte-tecnico-linea-clientes_13740905.htm#query=soporte%20tecnico&position=12&from_view=keyword
+intro_image:https://www.freepik.es/vector-gratis/alojamiento-web-isometrico-composicion-soporte-soporte-tecnico-linea-clientes_13740905.htm#query=soporte%20tecnico&position=12&from_view=keyword
 ---
 
 ## BIENVENIDOS A TECNO-TANY <3
@@ -22,14 +22,3 @@ image: https://www.freepik.es/vector-gratis/alojamiento-web-isometrico-composici
 
 + >**_Nuestos Valores: es tener en cuenta  los requisitos y medidas que pida el cliente para  que nosotros seamos parte de sus prioridades reconocer y ayudar cundo más lo necesiten_**
 
-
-```yaml
-layout: post
-title: Post with Intro
-author: Guest Author
-intro: This is the introduction text for this post. It appears large and bold at the top of the post
-intro_image: /img/home.jpg
-intro_image_ratio: is-16by9
-```
-
-Only the intro is required if you want to display it. If you don't want an image then don't specify one and just the intro text will display.
