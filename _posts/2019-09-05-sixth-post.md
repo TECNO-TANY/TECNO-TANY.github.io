@@ -3,7 +3,7 @@ layout: post
 title: Nosotros
 author: Guest Author
 description:
-intro_image_ratio: is-16by9
+image: https://www.freepik.es/vector-gratis/alojamiento-web-isometrico-composicion-soporte-soporte-tecnico-linea-clientes_13740905.htm#query=soporte%20tecnico&position=12&from_view=keyword
 ---
 
 ## BIENVENIDOS A TECNO-TANY <3
