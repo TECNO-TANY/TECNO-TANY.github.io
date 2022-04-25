@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Nosotros
-description:
+author: Tania
 image: https://img.freepik.com/foto-gratis/operador-call-center-seguro-hablando-cliente_74855-4059.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
 ---
 
