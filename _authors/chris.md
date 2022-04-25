@@ -1,9 +1,9 @@
 ---
-short_name: C.S. Rhymes
-title: C.S. Rhymes - web dev and author
-name: C.S. Rhymes
+short_name: Tecno tany
+title: Tecno tany
+name: s.c Tania Berenice
 position: Web Designer
-description: C.S. Rhymes is a web developer and a part time author, specialising in Laravel, Vue.js and developing Jekyll themes.
+description: Vivimos para mejorara la calidad de tu computador 
 avatar: /img/avatar.png
 website: https://www.csrhymes.com
 facebook: https://www.facebook.com/
