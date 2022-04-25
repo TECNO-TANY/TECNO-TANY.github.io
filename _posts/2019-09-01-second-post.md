@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: contacto
+author: Tania
 mage: https://img.freepik.com/vector-gratis/ilustracion-soporte-al-cliente-plano-organico_23-2148899174.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
 ---
 
