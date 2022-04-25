@@ -1,7 +1,17 @@
 ---
-short_name:TECNO-TANY 
-title: TECNO-TANY
-name: TANY
-description: Una empresa que ayudara a mejorar la vida de tu computador
-imagehttps://www.gratistodo.com/wp-content/uploads/2021/07/One-Piece-Wallpapers-13.jpg
+short_name: TECNO TANY
+title: TECNO TANY
+name:TANIA 
+position: Web Designer
+description: Vivimos para mejorara la calidad de tu cumputador 
+avatar: /img/avatar.png
+website: https://www.csrhymes.com
+facebook: https://www.facebook.com/
+twitter: https://www.twitter.com/chrisrhymes
+github: https://www.github.com/chrisrhymes
+gitlab: https://www.gitlab.com
+instagram: https://www.instagram.com
+linkedin: https://www.linkedin.com/in/chris-rhymes-a6a85971
+medium: https://www.medium.com/@chrisrhymes
+stack_overflow: https://stackoverflow.com/
 ---
