@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: SERVICIOS
 title: SERVICIOS
 author:
 intro:
