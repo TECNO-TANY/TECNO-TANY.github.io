@@ -2,7 +2,9 @@
 layout: Ubicacion
 title: UBICACION 
 image: https://staticuestudio.blob.core.windows.net/buhomag/2016/11/01234934/Google-Maps.jpg
+
 ---
+
 
 
 >**_Nos ubicamos  en calla 1 maz 13 lot 1a colonia vale de los resyes la paz  ente la avenida ixtpan y tenancigo_**
