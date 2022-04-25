@@ -1,5 +1,5 @@
 --- 
-layout: FAQ
+layout: post
 title: FAQ
 image: https://img.freepik.com/vector-gratis/ilustracion-soporte-al-cliente_23-2148904079.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
 ---
