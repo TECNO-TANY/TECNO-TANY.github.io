@@ -4,8 +4,6 @@ title: FAQ
 image: https://img.freepik.com/vector-gratis/ilustracion-soporte-al-cliente_23-2148904079.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
 ---
 
-image: https://img.freepik.com/vector-gratis/ilustracion-soporte-al-cliente_23-2148904079.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
-
 
  +   **_1¿Cada cuando se recomienda darle mantenimiento a una computadora?_**
 >_Bueno fisicamente cada 2 a 3 meses debes sopletearla para que no acumule polvo y pelusa en su interior, y en cuanto al software hay utilidades como CCleaner o Tuneup utilities para que le des un mantenimiento a tu pc, entre los que estan eliminar los archivos innecesarios, desfragmentar en disco y el registro de windows, en fin y esto se hace de acuerdo al uso que le des a tu pc pero una ves por semana o cada 15 dias es lo ideal para que mantengas a punto tu equipo._
