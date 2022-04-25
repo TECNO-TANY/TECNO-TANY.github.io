@@ -2,7 +2,7 @@
 short_name: Tecno tany
 title: Tecno tany
 name: s.c Tania Berenice
-position: Web Designer
+position:
 description: Vivimos para mejorara la calidad de tu computador 
 avatar: /img/avatar.png
 website: https://www.csrhymes.com
