@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: UBICACION
+author: Tania
 image: https://staticuestudio.blob.core.windows.net/buhomag/2016/11/01234934/Google-Maps.jpg
 ---
 
