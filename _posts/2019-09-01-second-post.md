@@ -6,8 +6,6 @@ mage: https://img.freepik.com/vector-gratis/ilustracion-soporte-al-cliente-plano
 
 > ### _Nos puede contactar en los siguentes  sitios_:
 
-
-
 **CORREO ELECTRONICO** taniaberenicesabinoc20.ce32@gmail.com
 
 **NUMERO TELEFONICO**:5545324619
