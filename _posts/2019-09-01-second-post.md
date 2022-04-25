@@ -1,9 +1,8 @@
 --- 
-layout: CONTACTO
-title: CONTACTON 
-image: https://img.freepik.com/vector-gratis/ilustracion-soporte-al-cliente-plano-organico_23-2148899174.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
+layout: contacto
+title: contacto
+mage: https://img.freepik.com/vector-gratis/ilustracion-soporte-al-cliente-plano-organico_23-2148899174.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
 ---
-
 
 > ### _Nos puede contactar en los siguentes  sitios_:
 
