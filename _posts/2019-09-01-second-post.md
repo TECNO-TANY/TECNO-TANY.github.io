@@ -26,5 +26,5 @@ Fecha de servicio : <input type="datetime-local">
 Clificacion de servicio: <input type="range">
   
 <input type="submit">
-</form> +
+</form> 
 
