@@ -1,8 +1,7 @@
 --- 
 layout: post
 title: SERVICIOS
-author:
-intro:
+author: Tania
 image: https://img.freepik.com/vector-gratis/alojamiento-web-isometrico-composicion-soporte-soporte-tecnico-linea-clientes_1284-54457.jpg?size=626&ext=jpg&ga=GA1.2.1306725374.1649290375
 
 --- 
