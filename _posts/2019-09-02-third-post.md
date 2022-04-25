@@ -1,5 +1,5 @@
 --- 
-layout: UBICACION
+layout: post
 title: UBICACION
 image: https://staticuestudio.blob.core.windows.net/buhomag/2016/11/01234934/Google-Maps.jpg
 ---
